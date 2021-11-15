@@ -14,7 +14,7 @@ class Portfolio2021 extends StatelessWidget {
     return MaterialApp(
       title: 'Jordan Scheftic Portfolio',
       theme: ThemeData.dark().copyWith(
-        scaffoldBackgroundColor: Color(0xff0F0F1E),
+        scaffoldBackgroundColor: Color(0xff1d1e33),
         primaryColor: Color(0xff0F0F1E),
       ),
       home: const HomePage(),
